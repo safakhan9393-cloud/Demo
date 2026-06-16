@@ -1,3 +1,3 @@
 # Demo
 This is my first git repository
-Author - Safa Khan
+Author - Safa Khan Yousufzai
